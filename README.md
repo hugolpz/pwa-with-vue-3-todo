@@ -1,29 +1,13 @@
 # Progressive Web Apps with Vue 3
 
-## Project setup
+- [Course](https://www.vuemastery.com/courses/progressive-web-apps-vue-3/).
+- [Source](https://github.com/Code-Pop/pwa-with-vue-3/tree/09-End)
+- [Customize configuration](https://cli.vuejs.org/config/).
 
+## Commands
 ```
-yarn install
+yarn install  # Project setup
+yarn serve    # Compiles and hot-reloads for development
+yarn build    # Compiles and minifies for production
+yarn lint     # Lints and fixes files
 ```
-
-### Compiles and hot-reloads for development
-
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
